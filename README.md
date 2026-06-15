@@ -1,4 +1,4 @@
-# Who Cared for the Poor in Glasgow? — A Historical Atlas, c.1471–1905
+# Governing the poor — A Historical Atlas, c.1471–1905
 
 A StoryMapJS atlas tracing welfare provision in Glasgow across 450 years and four distinct provider types: church/ecclesiastical, civic and trade philanthropy, the statutory Poor Law, and evangelical voluntary organisations.
 
