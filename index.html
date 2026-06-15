@@ -155,12 +155,46 @@
        ════════════════════════════════════════════════════════════════════ */
 
     /* ── Fonts throughout ───────────────────────────────────────────────── */
-    .vco-storymap,
-    .vco-storymap * {
+    /* Apply Source Sans 3 to text elements only — NOT icon elements */
+    .vco-storymap .vco-slide-content,
+    .vco-storymap .vco-text,
+    .vco-storymap .vco-text p,
+    .vco-storymap .vco-text-content,
+    .vco-storymap .vco-text-content p,
+    .vco-storymap .vco-media-caption,
+    .vco-storymap .vco-media-credit,
+    .vco-storymap .vco-nav-slide .vco-nav-title h3,
+    .vco-storymap .vco-nav-slide .vco-nav-description {
       font-family: 'Source Sans 3', sans-serif !important;
     }
+    /* Explicitly restore the StoryMapJS icon font for arrows and markers */
+    .vco-storymap .vco-slidenav-icon,
+    .vco-storymap .vco-slidenav-icon::before,
+    .vco-storymap .vco-slidenav-next .vco-slidenav-icon,
+    .vco-storymap .vco-slidenav-previous .vco-slidenav-icon,
+    .vco-storymap .vco-mapmarker,
+    .vco-storymap .vco-mapmarker * {
+      font-family: 'vco-icons' !important;
+    }
 
-    /* Headings use Cormorant Garamond */
+    /* ── Slide navigation arrows (left/right within slide panel) ────────── */
+    /* These use the vco-icons font for the glyph — font restore above covers them.
+       Here we just ensure colour and visibility. */
+    .vco-storymap .vco-storyslider .vco-slidenav-next,
+    .vco-storymap .vco-storyslider .vco-slidenav-previous {
+      color: #b8862a !important;
+      opacity: 1 !important;
+    }
+    .vco-storymap .vco-storyslider .vco-slidenav-next:hover,
+    .vco-storymap .vco-storyslider .vco-slidenav-previous:hover {
+      color: #f0ebe1 !important;
+    }
+    .vco-storymap .vco-storyslider .vco-slidenav-icon {
+      color: inherit !important;
+      font-family: 'vco-icons' !important;
+    }
+
+    /* ── Headings use Cormorant Garamond */
     .vco-storymap .vco-headline h2,
     .vco-storymap .vco-headline h3,
     .vco-storymap .vco-nav-slide .vco-nav-title h3 {
@@ -273,14 +307,46 @@
       background: #8a621e !important;
     }
 
-    /* ── Map markers ─────────────────────────────────────────────────────── */
-    .vco-storymap .vco-map .vco-map-marker-number {
+    /* ── Map markers: Google-style teardrop pins ────────────────────────── */
+    /* StoryMapJS renders markers as .vco-mapmarker divs with a number inside.
+       We reshape them to teardrop pins: circular top, pointed bottom. */
+    .vco-storymap .vco-map .vco-mapmarker {
+      width: 28px !important;
+      height: 36px !important;
       background: #b8862a !important;
-      border-color: #f0ebe1 !important;
+      border: 2px solid rgba(255,255,255,0.85) !important;
+      border-radius: 50% 50% 50% 0 !important;
+      transform: rotate(-45deg) !important;
+      margin-left: -14px !important;
+      margin-top: -34px !important;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.4) !important;
+      transition: background .15s, transform .15s !important;
+      font-family: 'Source Sans 3', sans-serif !important;
     }
-    .vco-storymap .vco-map .vco-map-marker-number.vco-active {
+    /* Counter-rotate the number inside so it reads upright */
+    .vco-storymap .vco-map .vco-mapmarker .vco-mapmarker-number,
+    .vco-storymap .vco-map .vco-mapmarker span {
+      display: block !important;
+      transform: rotate(45deg) !important;
+      font-family: 'Source Sans 3', sans-serif !important;
+      font-size: 10px !important;
+      font-weight: 600 !important;
+      color: #fff !important;
+      text-align: center !important;
+      line-height: 24px !important;
+      margin-top: 0 !important;
+    }
+    /* Active / current slide marker */
+    .vco-storymap .vco-map .vco-mapmarker.vco-active {
       background: #1a1510 !important;
       border-color: #b8862a !important;
+      transform: rotate(-45deg) scale(1.15) !important;
+      z-index: 999 !important;
+    }
+    /* Hover state */
+    .vco-storymap .vco-map .vco-mapmarker:hover {
+      background: #8a621e !important;
+      transform: rotate(-45deg) scale(1.1) !important;
     }
 
     /* ── Mobile layout ───────────────────────────────────────────────────── */
