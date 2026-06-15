@@ -4,13 +4,13 @@
       {
         "type": "overview",
         "text": {
-          "headline": "Historical Atlas of Glasgow Social Welfare",
+          "headline": "Who Cared for the Poor in Glasgow?",
           "text": "<p>A historical atlas of welfare provision in Glasgow, c.1471–1905. Four distinct providers — the Catholic church, the Reformed kirk, civic and trade philanthropy, and the statutory Poor Law — each claimed responsibility for Glasgow's poor across four centuries. This map documents where they did so, and how that balance of power shifted.</p><p><strong style='color:#b8862a'>&#9632; Church / ecclesiastical</strong> &nbsp; <strong style='color:#3d4a5c'>&#9632; Civic &amp; trade philanthropy</strong> &nbsp; <strong style='color:#8b2e2e'>&#9632; Statutory Poor Law</strong> &nbsp; <strong style='color:#2e6b2e'>&#9632; Evangelical voluntary</strong></p>"
         },
         "media": {
-          "url": "wikifile:Glasgow_from_the_Necropolis_1909.jpg",
-          "credit": "Glasgow from the Necropolis, 1909. Public domain via Wikimedia Commons",
-          "caption": "Glasgow Cathedral precinct — where the city's earliest welfare institutions clustered"
+          "url": "wikifile:Glasgow-necropolis-royalinfirmary-cathedral.jpg",
+          "credit": "Glasgow Cathedral and Royal Infirmary viewed from the Necropolis. Wikimedia Commons",
+          "caption": "Glasgow Cathedral precinct — the city's earliest welfare institutions clustered here"
         },
         "location": {
           "lat": 55.862,
@@ -25,9 +25,9 @@
           "text": "<p><strong>Category: Church / ecclesiastical</strong></p><p>Founded by Bishop Andrew de Durisdeer (also recorded as Andrew Muirhead) as a hospice for twelve old men beside Glasgow Cathedral. This was the city's first purpose-built welfare institution, funded by episcopal endowment and staffed by a priest. The hospital continued until the 18th century; its ruins were removed in 1798 and the chapel in 1808. Provand's Lordship (1471), built as the manse for the chapel linked to the hospital, is the only surviving structure of this complex and the oldest house in Glasgow.</p><p><em>Site only &mdash; demolished 1798. Provand's Lordship survives at 3 Castle Street.</em></p>"
         },
         "media": {
-          "url": "wikifile:Provand's_Lordship,_Glasgow.jpg",
-          "credit": "Provand's Lordship, Castle Street — the sole surviving structure of the St Nicholas Hospital complex. Wikimedia Commons, CC BY-SA 3.0",
-          "caption": "Provand's Lordship, 3 Castle Street, built 1471"
+          "url": "wikifile:Provand's_Lordship,_Castle_Street_Glasgow.JPG",
+          "credit": "Provand's Lordship, Castle Street, Glasgow (1471). CC BY-SA 3.0, Kim Traynor",
+          "caption": "Provand's Lordship — the only surviving structure of the St Nicholas Hospital complex"
         },
         "location": {
           "lat": 55.8625,
@@ -42,9 +42,9 @@
           "text": "<p><strong>Category: Church / ecclesiastical</strong></p><p>The Protestant Reformation of 1560 abolished Catholic charitable institutions and transferred responsibility for the poor to the Reformed Church. Glasgow Cathedral — stripped of its Catholic function but retained as a parish church — became the administrative centre of this system. The General Session of Glasgow's parishes distributed outdoor relief (money, food, fuel) from collections taken at church doors. In 1597 an Act of the Scottish Parliament formally transferred poor law administration to the kirk sessions, where it would remain until 1845. Glasgow Cathedral's crypt served as the meeting place of the Barony parish congregation from 1595, making it a key site of both spiritual and social administration.</p><p><em>Glasgow Cathedral, Castle Street &mdash; standing, Category A listed.</em></p>"
         },
         "media": {
-          "url": "wikifile:Glasgow_from_the_Necropolis_1909.jpg",
-          "credit": "Glasgow Cathedral, Castle Street. Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Glasgow Cathedral — administrative centre of kirk session poor relief from 1560"
+          "url": "wikifile:Glasgow-necropolis-royalinfirmary-cathedral.jpg",
+          "credit": "Glasgow Cathedral and Royal Infirmary. Wikimedia Commons",
+          "caption": "Glasgow Cathedral — centre of kirk session poor relief administration from 1560"
         },
         "location": {
           "lat": 55.8631,
@@ -60,8 +60,8 @@
         },
         "media": {
           "url": "wikifile:Tron_Theatre,_Glasgow.JPG",
-          "credit": "Trades Hall, Glassford Street (1791–94, Robert Adam). Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "The Trades Hall — successor institution to the original Trades Almshouse on High Street"
+          "credit": "Trongate, Glasgow. Wikimedia Commons, CC BY-SA 3.0",
+          "caption": "Trongate — the Trades Almshouse stood at Cathedral Street and High Street"
         },
         "location": {
           "lat": 55.8594,
@@ -76,9 +76,9 @@
           "text": "<p><strong>Category: Civic &amp; trade philanthropy</strong></p><p>Brothers George Hutcheson (c.1580–1639) and Thomas Hutcheson (1589–1641), Glasgow lawyers, bequeathed land and funds for a hospital for elderly merchants and a free school for underprivileged boys. Built in the Trongate between 1641 and 1660, with statues of the brothers above the entrance and a 100-foot steeple with clock and bell. The hospital was financed by rental income from lands in the Gorbals. In 1802–05 it moved to a new building in Ingram Street designed by David Hamilton — now Hutchesons' Hall, Category A listed, owned by the National Trust for Scotland. The original Trongate building was demolished to create Hutcheson Street.</p><p><em>Original site: Trongate (demolished c.1802). Successor building: Hutchesons' Hall, 158 Ingram Street &mdash; standing.</em></p>"
         },
         "media": {
-          "url": "wikifile:Hutchesons'_Hall,_Glasgow.jpg",
-          "credit": "Hutchesons' Hall, 158 Ingram Street (David Hamilton, 1802–05). Wikimedia Commons, CC BY-SA 3.0",
-          "caption": "Hutchesons' Hall — successor to the 1641 hospital; statues of the founders survive on the facade"
+          "url": "wikifile:Hutchesons'_Hall,_Ingram_Street_-_geograph.org.uk_-_6197008.jpg",
+          "credit": "Hutchesons' Hall, 158 Ingram Street. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Hutchesons' Hall — successor building to the 1641 hospital; original statues on facade"
         },
         "location": {
           "lat": 55.8584,
@@ -93,9 +93,9 @@
           "text": "<p><strong>Category: Civic &amp; trade philanthropy (hybrid)</strong></p><p>By the early 18th century Glasgow's parish churches could no longer cope with the scale of urban poverty. In 1729 the General Session petitioned the Town Council, and in 1733 the Town's Hospital opened on Great Clyde Street at the edge of Glasgow Green. Its governance was a formal partnership of four interests: 12 directors elected by the Town Council, 12 by the Church's General Session, 12 by the Merchants' House, and 12 by the Incorporated Trades. This four-way model — civic, ecclesiastical, merchant, and trade — is itself a document of how pre-industrial Glasgow understood responsibility for its poor. The hospital contained a workhouse, infirmary, asylum, and home for the aged and orphaned, accommodating over 500 inmates by 1851. It closed in 1844 and was demolished.</p><p><em>Site only &mdash; Great Clyde Street at junction with Ropework Lane. Demolished 1844; warehouse built on site.</em></p>"
         },
         "media": {
-          "url": "wikifile:Glasgow_from_the_Necropolis_1909.jpg",
-          "credit": "Town's Hospital and Poorhouse, Great Clyde Street, 1830s engraving. Public domain",
-          "caption": "The Town's Hospital — Glasgow's great pre-Poor Law institution, governed by church, council, merchants and trades"
+          "url": "wikifile:Glasgow_Cross,_1868.jpg",
+          "credit": "Glasgow Cross, 1868 (Thomas Annan photograph). Public domain",
+          "caption": "Glasgow Cross area — Town's Hospital stood on Great Clyde Street near Glasgow Green"
         },
         "location": {
           "lat": 55.854,
@@ -112,7 +112,7 @@
         "media": {
           "url": "wikifile:Tron_Theatre,_Glasgow.JPG",
           "credit": "Tron Theatre (former Tron Kirk), 63 Trongate. Wikimedia Commons, CC BY-SA 3.0",
-          "caption": "The Tron Kirk — site of Chalmers' first Glasgow ministry, 1815–1819"
+          "caption": "Tron Theatre (former Tron Kirk) — Chalmers' ministry 1815–1819"
         },
         "location": {
           "lat": 55.8569,
@@ -127,9 +127,9 @@
           "text": "<p><strong>Category: Evangelical voluntary</strong></p><p>Chalmers moved to the newly-created St John's Parish in 1819, describing it as 'the largest and also the poorest parish in Glasgow.' He divided it into 25 districts, each overseen by an elder for spiritual needs and a deacon for material ones. He claimed to reduce poor relief expenditure from £1,400 to £280 per annum in four years. Modern historians have questioned these figures, and the experiment's success was always limited by the scale of industrial poverty it faced. Chalmers left for St Andrews in 1823, but the experiment became internationally influential, shaping the Charity Organisation Society and the foundations of professional social casework. It also made visible the fundamental tension between voluntary-moral and statutory-administrative models of welfare — the argument that would define the 1845 Act.</p><p><em>Site only &mdash; church demolished. Area east of Glasgow Cross.</em></p>"
         },
         "media": {
-          "url": "wikifile:Annan,_Thomas_-_Die_High_Street_von_der_Kreuzung_aus_(Zeno_Fotografie).jpg",
-          "credit": "Glasgow Cross, 1868 (Thomas Annan photograph). Public domain via Wikimedia Commons",
-          "caption": "Glasgow Cross, 1868 — St John's Parish lay to the east of this point"
+          "url": "wikifile:Glasgow_Cross,_1868.jpg",
+          "credit": "Glasgow Cross, 1868 (Thomas Annan photograph). Public domain",
+          "caption": "Glasgow Cross, 1868 — St John's Parish lay to the east"
         },
         "location": {
           "lat": 55.8555,
@@ -145,8 +145,8 @@
         },
         "media": {
           "url": "wikifile:Thomas_Chalmers_by_Thomas_Duncan.jpg",
-          "credit": "Thomas Chalmers, by Thomas Duncan c.1840s. Public domain via Wikimedia Commons",
-          "caption": "Thomas Chalmers — whose parish model Nasmith's interdenominational City Mission explicitly superseded"
+          "credit": "Thomas Chalmers by Thomas Duncan, c.1840s. Public domain, Wikimedia Commons",
+          "caption": "Thomas Chalmers — whose parish model Nasmith's City Mission superseded"
         },
         "location": {
           "lat": 55.8594,
@@ -163,7 +163,7 @@
         "media": {
           "url": "wikifile:North_Frederick_Street,_Glasgow.jpg",
           "credit": "North Frederick Street, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "North Frederick Street — site of the Night Asylum for the Houseless from the 1840s"
+          "caption": "North Frederick Street — site of the Night Asylum from the 1840s"
         },
         "location": {
           "lat": 55.8635,
@@ -179,8 +179,8 @@
         },
         "media": {
           "url": "wikifile:Barony_Church,_Glasgow_01.jpg",
-          "credit": "Barony Hall (former Barony Church), Castle Street (J.J. Burnet & J.A. Campbell, 1889). Wikimedia Commons, CC BY-SA 4.0",
-          "caption": "Barony Hall — administrative centre of one of Glasgow's four Parochial Boards after 1845"
+          "credit": "Barony Hall (former Barony Church), Castle Street. Wikimedia Commons, CC BY-SA 4.0",
+          "caption": "Barony Hall — administrative centre of the Barony Parochial Board after 1845"
         },
         "location": {
           "lat": 55.8619,
@@ -196,7 +196,7 @@
         },
         "media": {
           "url": "wikifile:Glasgow_Caledonian_University_-_geograph.org.uk_-_1126755.jpg",
-          "credit": "Glasgow Caledonian University, built on the former poorhouse site. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "credit": "Glasgow Caledonian University. Geograph / Wikimedia Commons, CC BY-SA 2.0",
           "caption": "Glasgow Caledonian University — the City Poorhouse (1845–1898) stood on this ground"
         },
         "location": {
@@ -213,7 +213,7 @@
         },
         "media": {
           "url": "wikifile:The_Barony_Parish_Church,_Glasgow_-_geograph.org.uk_-_579055.jpg",
-          "credit": "Barony Parish Church from Cathedral Square. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "credit": "Barony Parish Church. Geograph / Wikimedia Commons, CC BY-SA 2.0",
           "caption": "Barony Parish — the Parochial Board responsible for Barnhill Poorhouse"
         },
         "location": {
@@ -230,8 +230,8 @@
         },
         "media": {
           "url": "wikifile:William_Quarrier.jpg",
-          "credit": "William Quarrier (1829–1903). Public domain via Wikimedia Commons",
-          "caption": "William Quarrier — founder of the Shoeblack Brigade (1864) and Renfrew Lane Homes (1871)"
+          "credit": "William Quarrier (1829–1903). Public domain, Wikimedia Commons",
+          "caption": "William Quarrier — founded the Industrial Brigade Home on the Trongate in 1864"
         },
         "location": {
           "lat": 55.8648,
@@ -247,8 +247,8 @@
         },
         "media": {
           "url": "wikifile:Adelaide_Place_Baptist_Church_external_north_elevation.jpg",
-          "credit": "Adelaide Place Baptist Church, north elevation (Thomas Lennox Watson, 1875–77). Wikimedia Commons, CC BY-SA 4.0",
-          "caption": "Adelaide Place Baptist Church, Bath Street — Quarrier's congregational home throughout his Glasgow years"
+          "credit": "Adelaide Place Baptist Church, 1875–77. Wikimedia Commons, CC BY-SA 4.0",
+          "caption": "Adelaide Place Baptist Church — Quarrier's congregational home throughout his Glasgow years"
         },
         "location": {
           "lat": 55.8647,
@@ -264,7 +264,7 @@
         },
         "media": {
           "url": "wikifile:William_Quarrier.jpg",
-          "credit": "William Quarrier (1829–1903). Public domain via Wikimedia Commons",
+          "credit": "William Quarrier (1829–1903). Public domain, Wikimedia Commons",
           "caption": "William Quarrier — founded the Industrial Brigade Home on the Trongate in 1864"
         },
         "location": {
@@ -281,8 +281,8 @@
         },
         "media": {
           "url": "wikifile:North_Frederick_Street,_Glasgow.jpg",
-          "credit": "Renfield Street, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Renfield Street, Glasgow — site of Quarrier's Girls Home at No.93"
+          "credit": "Central Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Renfield Street — Quarrier's Girls Home was at No.93"
         },
         "location": {
           "lat": 55.864138,
@@ -297,9 +297,9 @@
           "text": "<p><strong>Category: Evangelical voluntary · Quarrier's Golden Bridge</strong></p><p>A further domestic-scale home in the Renfrew Street area, part of Quarrier's network of rented city-centre properties through the early 1870s. The cluster of homes in this area — Renfrew Lane, Renfield Street, and this address — illustrates Quarrier's deliberate strategy of dispersing children through small, house-based care rather than congregating them in large institutions. Each property was managed on a household model, with a housemother figure. This approach directly anticipated the cottage-home model he would build at scale at Quarrier's Village from 1878.</p>"
         },
         "media": {
-          "url": "wikifile:William_Quarrier.jpg",
-          "credit": "William Quarrier (1829–1903). Public domain via Wikimedia Commons",
-          "caption": "William Quarrier — architect of the domestic-scale home model"
+          "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
+          "credit": "Merchant City, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Garnethill / Renfrew Street area — Quarrier's boys and girls homes"
         },
         "location": {
           "lat": 55.864858,
@@ -314,9 +314,9 @@
           "text": "<p><strong>Category: Evangelical voluntary · Quarrier's Golden Bridge</strong></p><p>Quarrier's main Glasgow city base from 1875, combining the City Orphan Home, Working Boys' Home, Children's Night Refuge, and Young Women's Shelter. This consolidated his previous network of rented houses into a single large site and represented the peak of his Glasgow city operation before attention shifted to the Village at Bridge of Weir. The site accommodated 100 boys permanently and a further 100 in temporary care. James Morrison Street still exists in the Merchant City; the building is demolished and the exact footprint requires NLS 25-inch map verification.</p>"
         },
         "media": {
-          "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
-          "credit": "Merchant City, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Merchant City, Glasgow — James Morrison Street City Orphanage was in this area"
+          "url": "images/city-orphan-home.jpg",
+          "credit": "Heatherbank Museum of Social Work / TheGlasgowStory (TGSE00371). Reproduced with permission.",
+          "caption": "City Orphan Home, Working Boys' Home, Children's Night Refuge and Young Women's Shelter, James Morrison Street"
         },
         "location": {
           "lat": 55.855332,
@@ -332,7 +332,7 @@
         },
         "media": {
           "url": "wikifile:William_Quarrier.jpg",
-          "credit": "William Quarrier (1829–1903). Public domain via Wikimedia Commons",
+          "credit": "William Quarrier (1829–1903). Public domain, Wikimedia Commons",
           "caption": "William Quarrier — established the Dovehill Mission Hall and Night Refuge c.1872"
         },
         "location": {
@@ -348,9 +348,9 @@
           "text": "<p><strong>Category: Evangelical voluntary · Quarrier's Golden Bridge / child emigration</strong></p><p>Cessnock House in Govan served as Quarrier's Training Home for Boys destined for Canada — a staging post between his city homes and the transatlantic voyage. Within a year of opening the first Renfrew Lane home in November 1871, 35 boys were prepared here for emigration. The 'Golden Bridge' programme, as it came to be known, sent thousands of children to Canada as farm labourers and domestic servants under placements arranged through Quarrier's Canadian distribution homes. Both the Canadian and UK governments have since issued formal apologies for the child emigration schemes; survivors and descendants have documented widespread exploitation and abuse. The Training Home is the most direct Glasgow address of this contested legacy.</p>"
         },
         "media": {
-          "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
-          "credit": "Govan Road, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Govan — site of Cessnock House, Quarrier's Boys Training Home for Canada"
+          "url": "wikifile:William_Quarrier.jpg",
+          "credit": "William Quarrier (1829–1903). Public domain, Wikimedia Commons",
+          "caption": "Cessnock House, Govan — Boys Training Home for Canada, 1872"
         },
         "location": {
           "lat": 55.856711,
@@ -366,8 +366,8 @@
         },
         "media": {
           "url": "wikifile:William_Quarrier.jpg",
-          "credit": "William Quarrier (1829–1903). Public domain via Wikimedia Commons",
-          "caption": "Girls trained at this site were escorted to Canada by Agnes Quarrier on Allan Line ships"
+          "credit": "William Quarrier (1829–1903). Public domain, Wikimedia Commons",
+          "caption": "Girls trained here were escorted to Canada on Allan Line ships"
         },
         "location": {
           "lat": 55.857557,
@@ -382,9 +382,9 @@
           "text": "<p><strong>Category: Emigration infrastructure · Quarrier's Golden Bridge</strong></p><p>The Allan Shipping Line was founded in 1819 by Captain Alexander Allan of Saltcoats and provided the first regular steamship service between the Clyde and Canada. It was the primary carrier of Quarrier's child emigrants to Quebec from 1872 onward — William Quarrier's first party of children sailed on the Allan Line's Saint David in 1872. An estimated 2.3 million people emigrated from Scotland between 1825 and 1938, many via the Clyde and the Allan Line. The Great Clyde Street offices were one of multiple Glasgow booking points; Allan Line buildings at 15–25 Bothwell Street served as the main city offices by the 1890s. The line was acquired by Canadian Pacific in 1917.</p>"
         },
         "media": {
-          "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
-          "credit": "Allan Line advertisement. Public domain",
-          "caption": "The Allan Line — primary carrier of Quarrier's child emigrants from Glasgow to Quebec"
+          "url": "wikifile:Glasgow_Cross,_1868.jpg",
+          "credit": "Glasgow, 1868 (Thomas Annan photograph). Public domain",
+          "caption": "The Allan Line provided the first regular steamship service from the Clyde to Canada"
         },
         "location": {
           "lat": 55.855854,
@@ -400,8 +400,8 @@
         },
         "media": {
           "url": "wikifile:North_Frederick_Street,_Glasgow.jpg",
-          "credit": "Bothwell Street, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Bothwell Street — Allan Line Buildings at 15–25 were the main Glasgow booking office by the 1890s"
+          "credit": "Central Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Bothwell Street — Allan Line Buildings at 15–25 were the main Glasgow booking office"
         },
         "location": {
           "lat": 55.860971,
@@ -417,7 +417,7 @@
         },
         "media": {
           "url": "wikifile:Tron_Theatre,_Glasgow.JPG",
-          "credit": "Buchanan Street, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "credit": "Trongate, central Glasgow. Wikimedia Commons, CC BY-SA 3.0",
           "caption": "Buchanan Street — Allan Line passenger booking office at No.75"
         },
         "location": {
@@ -451,7 +451,7 @@
         },
         "media": {
           "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
-          "credit": "Parkhead, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "credit": "East end of Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
           "caption": "Parkhead — site of the Boys' Reformatory"
         },
         "location": {
@@ -468,7 +468,7 @@
         },
         "media": {
           "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
-          "credit": "Sisters of the Good Shepherd. Public domain",
+          "credit": "Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
           "caption": "The Sisters of the Good Shepherd ran Magdalene institutions across Britain and Ireland"
         },
         "location": {
@@ -480,13 +480,13 @@
       },
       {
         "text": {
-          "headline": "Heatherbank Museum of Social Work, Milngavie",
-          "text": "<p><strong>Category: Archive / heritage · Quarrier's Golden Bridge</strong></p><p>Heatherbank House in Milngavie is home to the Heatherbank Museum of Social Work, now held by Glasgow Caledonian University. It contains one of the most significant collections of social work history material in the UK, including records, photographs, artefacts and ephemera relating to many of the institutions in this atlas — poorhouses, reformatories, children's homes, and voluntary organisations. The Heatherbank collection is the primary archival source for much of what is known about Quarrier's work and related institutions. It was established by Colin and Rosemary Harvey and gifted to GCU. For researchers, this is the essential starting point for any of the sites in this map.</p>"
+          "headline": "Heatherbank Museum of Social Work, Bishopbriggs",
+          "text": "<p><strong>Category: Archive / heritage · Quarrier's Golden Bridge</strong></p><p>Heatherbank House in Bishopbriggs is home to the Heatherbank Museum of Social Work, held by Glasgow Caledonian University. It contains one of the most significant collections of social work history material in the UK, including records, photographs, artefacts and ephemera relating to many of the institutions in this atlas — poorhouses, reformatories, children's homes, and voluntary organisations. The Heatherbank collection is the primary archival source for much of what is known about Quarrier's work and related institutions. It was established by Doreen Cameron and gifted to GCU. For researchers, this is the essential starting point for any of the sites in this map.</p>"
         },
         "media": {
           "url": "wikifile:Glasgow_Caledonian_University_-_geograph.org.uk_-_1126755.jpg",
-          "credit": "Glasgow Caledonian University (custodian of the Heatherbank collection). Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Glasgow Caledonian University — holds the Heatherbank Museum of Social Work collection"
+          "credit": "Glasgow Caledonian University. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Glasgow Caledonian University — custodian of the Heatherbank Museum of Social Work"
         },
         "location": {
           "lat": 55.949831,
@@ -502,8 +502,8 @@
         },
         "media": {
           "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
-          "credit": "Govan, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Govan — site of the Combination Poorhouse serving Govan and Gorbals parishes from 1875"
+          "credit": "Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Govan — site of the Combination Poorhouse from 1875"
         },
         "location": {
           "lat": 55.862106,
@@ -519,8 +519,8 @@
         },
         "media": {
           "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
-          "credit": "Eglinton Street, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Eglinton Street — former cavalry barracks site where Govan Poorhouse stood from 1852"
+          "credit": "Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Eglinton Street — Govan Poorhouse stood here from 1852"
         },
         "location": {
           "lat": 55.846068,
@@ -535,9 +535,9 @@
           "text": "<p><strong>Category: Evangelical voluntary · Related Sites</strong></p><p>A girls' orphanage identified on the 1892 Ordnance Survey map in the Govan area — the institutional identity and operator of this site requires further archival research. It appears on the map at a period when voluntary child care provision was expanding rapidly across Glasgow's suburbs and industrial areas. This site illustrates a broader pattern: by the 1880s–90s, voluntary orphanages and children's homes had proliferated well beyond the city centre, reflecting both the scale of child poverty and the organisational energy of evangelical and Catholic voluntary networks. Verification via NLS 25-inch map and Mitchell Library directory records is recommended.</p>"
         },
         "media": {
-          "url": "wikifile:Glasgow_from_the_Necropolis_1909.jpg",
-          "credit": "Glasgow, 1909. Public domain via Wikimedia Commons",
-          "caption": "Girls' orphanage identified on the 1892 OS map — institutional identity unconfirmed"
+          "url": "wikifile:Glasgow-necropolis-royalinfirmary-cathedral.jpg",
+          "credit": "Glasgow. Wikimedia Commons",
+          "caption": "Girls' orphanage identified on the 1892 OS map"
         },
         "location": {
           "lat": 55.877723,
@@ -553,8 +553,8 @@
         },
         "media": {
           "url": "wikifile:North_Frederick_Street,_Glasgow.jpg",
-          "credit": "Rottenrow, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Rottenrow — site of the Lock Hospital for Women 1805–1947; now Thomas Campbell Court"
+          "credit": "Central Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Rottenrow / central Glasgow — site of the Lock Hospital for Women 1805–1947"
         },
         "location": {
           "lat": 55.861486,
@@ -569,9 +569,9 @@
           "text": "<p><strong>Category: Evangelical voluntary · Related Sites</strong></p><p>Glasgow's first Protestant Magdalene institution opened in 1812 as the House of Refuge for Females — one of the earliest such institutions in Scotland. It provided 'refuge' for women deemed to be living in moral danger, primarily those engaged in or at risk of prostitution. Residents undertook laundry work as both a means of institutional income and a form of moral rehabilitation. By 1858 the institution had relocated to Lochburn House in Maryhill. The 1812 founding predates the Lock Hospital's expansion and the Glasgow System by decades, showing that the project of reforming 'fallen women' was a sustained evangelical priority throughout the Victorian period — not simply a response to the Contagious Diseases Acts of the 1860s.</p>"
         },
         "media": {
-          "url": "wikifile:North_Frederick_Street,_Glasgow.jpg",
-          "credit": "Central Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Central Glasgow — the House of Refuge for Females (Magdalene Institution) operated here 1812–1858"
+          "url": "wikifile:Glasgow_Cross,_1868.jpg",
+          "credit": "Glasgow Cross, 1868. Public domain, Wikimedia Commons",
+          "caption": "Central Glasgow — House of Refuge for Females (Magdalene Institution) 1812–1858"
         },
         "location": {
           "lat": 55.865469,
@@ -586,8 +586,8 @@
           "text": "<p><strong>Category: Evangelical voluntary / coercive · Related Sites</strong></p><p>Lochburn House in Maryhill became the main premises of the Glasgow Magdalene Institution from 1857, operating for over a century until 1958. Under the Glasgow System from the 1860s, women swept up by police — not only sex workers but also 'socialists and single mothers' in the words of one account — who were disease-free were sent here for 'redemption through hard work, industrial training and sobriety.' Thousands of women passed through Lochburn House; their voices have been largely absent from the historical record. A memorial garden on the site has been proposed by the Women's Support Network. The building is demolished; a campaign for formal recognition of the women held here is ongoing.</p>"
         },
         "media": {
-          "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
-          "credit": "Maryhill, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "url": "wikifile:Glasgow-necropolis-royalinfirmary-cathedral.jpg",
+          "credit": "Glasgow. Wikimedia Commons",
           "caption": "Lochburn House, Maryhill — the Magdalene Institution operated here 1857–1958"
         },
         "location": {
@@ -604,8 +604,8 @@
         },
         "media": {
           "url": "wikifile:Glasgow_Caledonian_University_-_geograph.org.uk_-_1126755.jpg",
-          "credit": "Stobhill Hospital, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Stobhill Hospital — built 1904 as one of three Poor Law replacements for the combined poorhouse model"
+          "credit": "North Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Stobhill Hospital — built 1904 as one of three Poor Law replacements"
         },
         "location": {
           "lat": 55.893101,
@@ -620,8 +620,8 @@
           "text": "<p><strong>Category: Evangelical voluntary · Related Sites</strong></p><p>This site records a cluster of two institutions — an Asylum for Indigent Old Men and an Old Women's Home — in close proximity in central Glasgow. Voluntary provision for the elderly poor operated in parallel to the Poor Law poorhouse system throughout the Victorian period, offering an alternative that carried less stigma than indoor poor relief. The clustering of these two institutions with the Boys Home on adjacent sites reflects the Victorian categorisation of the 'deserving poor' — old men, old women, and orphaned children were considered suitable objects of voluntary charity in ways that able-bodied adults were not. Further archival research via the Mitchell Library is recommended to identify the operators.</p>"
         },
         "media": {
-          "url": "wikifile:Glasgow_from_the_Necropolis_1909.jpg",
-          "credit": "Central Glasgow. Wikimedia Commons, CC BY-SA 2.0",
+          "url": "wikifile:Glasgow_Cross,_1868.jpg",
+          "credit": "Central Glasgow, 1868. Public domain, Wikimedia Commons",
           "caption": "Central Glasgow — site of voluntary homes for elderly men and women"
         },
         "location": {
@@ -639,7 +639,7 @@
         "media": {
           "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
           "credit": "Central Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Central Glasgow — site of voluntary Boys Home, identity unconfirmed"
+          "caption": "Central Glasgow — site of voluntary Boys Home"
         },
         "location": {
           "lat": 55.861553,
@@ -654,8 +654,8 @@
           "text": "<p><strong>Category: Statutory / municipal · Related Sites</strong></p><p>The Corporation Women's Home represents the emergence of Glasgow Corporation as a welfare provider alongside the Parochial Boards — a distinct strand of municipal provision that grew through the late Victorian period. Corporation provision differed from both the Poor Law (less stigmatising, no formal 'test') and voluntary charity (secular, rate-funded, accountable to elected councillors). The Glasgow Corporation developed a range of welfare interventions in the 1880s–1900s, from model lodging houses to wash houses, municipal baths, and homes of this type. This site illustrates the beginning of what would later become the welfare state's municipal dimension.</p>"
         },
         "media": {
-          "url": "wikifile:Tron_Theatre,_Glasgow.JPG",
-          "credit": "Glasgow City Chambers. Wikimedia Commons, CC BY-SA 2.0",
+          "url": "wikifile:Barony_Church,_Glasgow_01.jpg",
+          "credit": "Barony Hall, Castle Street. Wikimedia Commons, CC BY-SA 4.0",
           "caption": "Glasgow Corporation — provider of the Corporation Women's Home"
         },
         "location": {
@@ -672,8 +672,8 @@
         },
         "media": {
           "url": "wikifile:North_Frederick_Street,_Glasgow.jpg",
-          "credit": "Rottenrow, Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Rottenrow — a street of welfare institutions; the Home for Deserted Mothers stood at No.140"
+          "credit": "Central Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Rottenrow — the Home for Deserted Mothers stood at No.140"
         },
         "location": {
           "lat": 55.862204,
@@ -688,7 +688,7 @@
           "text": "<p><strong>Category: Evangelical voluntary · Related Sites</strong></p><p>The later premises of the Home for Deserted Mothers, to which the institution moved from the Rottenrow address in the 1880s. The relocation northwards suggests either expansion of the home or the displacement common to welfare institutions as central areas were redeveloped. Deserted mothers represented a category of need that sat uneasily across all the Victorian welfare frameworks — too many children for the workhouse test, too 'undeserving' for many charities, too respectable for the Magdalene system. Specialist homes for this group are evidence of how gaps in the Victorian mixed economy of welfare generated new, targeted voluntary institutions.</p>"
         },
         "media": {
-          "url": "wikifile:North_Frederick_Street,_Glasgow.jpg",
+          "url": "wikifile:Glasgow_Merchant_City_-_geograph.org.uk_-_1079748.jpg",
           "credit": "Central Glasgow. Geograph / Wikimedia Commons, CC BY-SA 2.0",
           "caption": "Later premises of the Home for Deserted Mothers, 1880s"
         },
@@ -707,8 +707,8 @@
         },
         "media": {
           "url": "wikifile:Quarrier's_Village,_Bridge_of_Weir_-_geograph.org.uk_-_428474.jpg",
-          "credit": "Quarrier's Village, Bridge of Weir, Renfrewshire. Geograph / Wikimedia Commons, CC BY-SA 2.0",
-          "caption": "Quarrier's Village — the endpoint of the voluntary trajectory that began on the Trongate in 1864"
+          "credit": "Quarrier's Village, Bridge of Weir. Geograph / Wikimedia Commons, CC BY-SA 2.0",
+          "caption": "Quarrier's Village — the endpoint of the voluntary trajectory begun in 1864"
         },
         "location": {
           "lat": 55.862,
